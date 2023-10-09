@@ -1,0 +1,8 @@
+int a = 40;
+int b = 2;
+int c = a + b;
+str d = "Hello world";
+str e = "in Dew";
+output(c);
+output(d);
+output(e);
