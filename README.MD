@@ -19,4 +19,4 @@ You can put your code in input.txt
 `bool d = True;`
 `e = 2 + 2`
 
-It does not support variable arithmetic yet and outputting a string includes the double quotes (I will fix this).
+Outputting a string includes the double quotes (I will fix this).
