@@ -17,6 +17,6 @@ You can put your code in input.txt
 `str b = "bar";`
 `float c = 3.14;`
 `bool d = True;`
-`e = 2 + 2`
+`e = 2 + 2;`
 
 Outputting a string includes the double quotes (I will fix this).
